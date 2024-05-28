@@ -4,22 +4,7 @@ from dash import dcc, html
 from dash.dependencies import Input, Output
 import plotly.express as px
 import pandas as pd
-from github import Github
-# Replace 'YOUR_TOKEN' with your actual Personal Access Token
-#token = 'Sebastianvv2002'
 
-# Create a GitHub instance using the token
-#github = Github(token)
-
-# Access your private repository
-#repo = github.get_repo("jp11687/proyecto3_ACTD")
-
-# Get the contents of the file
-#file_content = repo.get_contents("Dash_SVV/IcfesLimpio.csv")
-
-# Read the CSV content
-#data = pd.read_csv(file_content.content)
-#url = "https://github.com/jp11687/proyecto3_ACTD/blob/main/Dash_SVV/IcfesLimpio.csv"
 data = pd.read_csv("IcfesLimpio.csv", index_col=False)
 data.head()
 
