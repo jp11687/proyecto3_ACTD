@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/proyecto3_ACTD/Modelos/mlruns/0/8f506c313c65407287c454c2c1f0a3c3/artifacts
+end_time: 1716855041128
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8f506c313c65407287c454c2c1f0a3c3
+run_name: efficient-bug-580
+run_uuid: 8f506c313c65407287c454c2c1f0a3c3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716854881086
+status: 3
+tags: []
+user_id: danye
