@@ -5,8 +5,8 @@ from dash.dependencies import Input, Output
 import plotly.express as px
 import pandas as pd
 
-
-data = pd.read_csv("IcfesLimpio.csv", index_col=False)
+url = "https://github.com/jp11687/proyecto3_ACTD/blob/main/Dash_SVV/IcfesLimpio.csv"
+data = pd.read_csv(url, index_col=False)
 data.head()
 
 # Create histograms
