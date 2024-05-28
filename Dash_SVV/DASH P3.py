@@ -6,7 +6,7 @@ import plotly.express as px
 import pandas as pd
 
 
-data = pd.read_csv("C:\\Users\\ASUS\\Documents\\Uniandes\\8vo semestre\\Analítica\\Proyecto 3\\IcfesLimpio.csv", index_col=False)
+data = pd.read_csv("IcfesLimpio.csv", index_col=False)
 data.head()
 
 # Create histograms
