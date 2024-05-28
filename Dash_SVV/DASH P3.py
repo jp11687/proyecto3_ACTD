@@ -6,7 +6,7 @@ import plotly.express as px
 import pandas as pd
 from github import Github
 # Replace 'YOUR_TOKEN' with your actual Personal Access Token
-token = 'YOUR_TOKEN'
+token = 'Sebastianvv2002'
 
 # Create a GitHub instance using the token
 github = Github(token)
