@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/proyecto3_ACTD/Modelos/mlruns/0/07dbad28b34f4c61b6d88c66575d103b/artifacts
+end_time: 1717034553265
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 07dbad28b34f4c61b6d88c66575d103b
+run_name: tasteful-rat-1
+run_uuid: 07dbad28b34f4c61b6d88c66575d103b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717034414596
+status: 3
+tags: []
+user_id: danye
